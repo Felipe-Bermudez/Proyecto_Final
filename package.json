@@ -1,0 +1,14 @@
+{
+  "name": "Proyecto_Complejidad",
+  "version": "1.0.0",
+  "description": "Proyecto de complejidad con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "simple-statistics": "^7.8.9"
+  }
+}
